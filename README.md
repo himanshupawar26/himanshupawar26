@@ -7,6 +7,8 @@
 [![Email](https://img.shields.io/badge/Email-himanshupawar.work%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:himanshupawar.work@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-himanshupawar26-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshupawar26)
 
+**[→ Full site](https://himanshupawar26.github.io/himanshupawar26/)**
+
 </div>
 
 I build on the ServiceNow platform — Fluent scoped apps, Agent Studio AI agents, Flow Designer/IntegrationHub automation — and I test what I build, across both the ServiceNow stack and general web/API automation (Selenium, Playwright, Cucumber, REST Assured).
